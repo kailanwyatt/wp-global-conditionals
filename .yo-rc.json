@@ -1,0 +1,18 @@
+{
+  "generator-plugin-wp": {
+    "name": "WP Global Conditionals",
+    "homepage": "https://kailanwyatt.com",
+    "description": "A set of useful WordPress conditional shortcodes",
+    "version": "1.0.0",
+    "author": "Kailan Wyatt",
+    "authoremail": "contact@kailanwyatt.com",
+    "authorurl": "https://kailanwyatt.com",
+    "license": "GPLv3",
+    "slug": "wp-global-conditionals",
+    "classname": "WP_Global_Conditionals",
+    "classprefix": "WPGC_",
+    "prefix": "wp_global_conditionals",
+    "year": 2017,
+    "currentVersionWP": "4.7.2"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "wp-global-conditionals",
+  "description": "A set of useful WordPress conditional shortcodes",
+  "license": "GPLv3",
+  "authors": [
+    "Kailan Wyatt"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
